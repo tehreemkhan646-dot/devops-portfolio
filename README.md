@@ -1,4 +1,5 @@
-# devops-portfolio - Version A
+<<<<<<< HEAD
+# devops-portfolio - Merged version
 
 ## Project Description
 This is my portfolio that demonstrates git and github workflows.
